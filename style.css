@@ -1,0 +1,30 @@
+.logo-img {
+  width: 60px;
+  height: 40px;
+}
+
+.full-width {
+  width: 100%;
+  height: auto;
+}
+
+.feature-item img {
+  width: 60px;
+  height: auto;
+}
+
+.subscribe {
+  background-image: url(img/subscribe.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.brand-icon img {
+  width: 100px;
+  height: auto;
+}
+
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: rgb(255 255 255 / 30%);
+}
